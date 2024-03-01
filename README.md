@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Archita Shah
-====================================================================================================================================
+Hi 👋 My name is Archita Shah
+=============================
 
 Software Engineer
 -----------------
@@ -30,10 +30,4 @@ Hello, I'm a passionate software engineer with a keen interest in AI and ML tech
 
 <a href="http://www.github.com/Archita2721"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Archita2721&stroke=64748b&background=ffffff&ring=444e59&fire=444e59&currStreakNum=64748b&currStreakLabel=444e59&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/Archita2721"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Archita2721&bg_color=ffffff&color=64748b&line=64748b&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Archita2721" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archita2721&langs_count=10&title_color=444e59&text_color=64748b&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
