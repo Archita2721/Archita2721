@@ -44,6 +44,7 @@ I’m looking to collaborate on **AI, ML, and automation projects**. If you have
 ## 🔗 **Connect With Me**  
 
 <p align="left"> <a href="https://www.linkedin.com/in/archita-s-16b03a202" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Archita2721" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="http://www.instagram.com/archita_2127" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://www.threads.net/@archita_2127" target="_blank"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /> </a> </p>
+
 ---
 
 ## 🎯 **Let's Build Something Great Together!**  
