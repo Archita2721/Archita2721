@@ -68,6 +68,4 @@ If you're working on **AI, ML, or automation-related projects**, feel free to re
 
 ---
 
-### 📜 **License**  
-MIT License. Free to use, modify, and distribute. 🎉  
 
