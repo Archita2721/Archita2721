@@ -1,5 +1,4 @@
 
-
 # 👋 Hi, I'm Archita Shah  
 
 🚀 **Software Engineer | AI & ML Enthusiast**  
@@ -24,29 +23,30 @@ I’m looking to collaborate on **AI, ML, and automation projects**. If you have
 ---
 
 ## 🛠️ **Technical Skills**  
-🚀 **Programming & Frameworks**  
+
+### 🚀 **Programming & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-ffb703?style=for-the-badge&logo=chainlink&logoColor=white)  
 
-📡 **Databases & Vector Search**  
+### 📡 **Databases & Vector Search**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-ff69b4?style=for-the-badge)  
 ![Pinecone](https://img.shields.io/badge/Pinecone-008080?style=for-the-badge&logo=pinecone&logoColor=white)  
 
-☁️ **Cloud & DevOps**  
+### ☁️ **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-🌍 **Frontend & Tools**  
+### 🌍 **Frontend & Tools**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-🔧 **Version Control & CI/CD**  
+### 🔧 **Version Control & CI/CD**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
@@ -66,6 +66,5 @@ If you're working on **AI, ML, or automation-related projects**, feel free to re
 
 📩 **Email:** [architashah27@gmail.com](mailto:architashah27@gmail.com)  
 
----
 
 
