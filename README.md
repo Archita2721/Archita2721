@@ -29,6 +29,7 @@ I’m looking to collaborate on **AI, ML, and automation projects**. If you have
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-ffb703?style=for-the-badge&logo=chainlink&logoColor=white)  
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> </a> <a href="https://python.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/LangChain-ffb703?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> </a> </p>
 
 ### 📡 **Databases & Vector Search**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
